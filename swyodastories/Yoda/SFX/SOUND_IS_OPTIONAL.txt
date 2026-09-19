@@ -1,0 +1,8 @@
+Optional: the game plays fine with no sound at all.
+
+For sound effects, copy the SFX folder from your own copy of the game
+here - it sits right next to YODESK.DTA and Yodesk.exe, same folder
+name, same file names inside it, nothing to rename.
+
+Delete this file once your SFX folder's contents are here; it's just a
+placeholder so the folder isn't empty in the zip.

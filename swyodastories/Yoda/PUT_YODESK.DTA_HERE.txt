@@ -1,0 +1,11 @@
+Put your own legally-owned yodesk.dta here.
+
+It sits next to Yodesk.exe on the original CD or in an installed copy.
+If your copy is still SZDD-compressed (starts with "SZDD" instead of
+"VERS" when you check the first 4 bytes), decompress it first - e.g.
+Windows' own EXPAND.EXE reads that format natively:
+
+    expand YODESK.DT_ yodesk.dta
+
+Delete this file once yodesk.dta is here; it's just a placeholder so
+the folder isn't empty in the zip.
