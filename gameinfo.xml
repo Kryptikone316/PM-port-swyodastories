@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Star Wars Yoda Stories.sh</path>
+    <name>Star Wars: Yoda Stories</name>
+    <desc>A procedurally generated Star Wars adventure from 1997: explore a new randomly built world every playthrough, solve item-chain puzzles, and fight your way to an audience with Yoda. This is a from-scratch reimplementation of the original engine that reads the real game data file.</desc>
+    <releasedate>19971001T000000</releasedate>
+    <developer>LucasArts</developer>
+    <publisher>LucasArts</publisher>
+    <genre>Adventure</genre>
+    <image>./swyodastories/screenshot.png</image>
+  </game>
+</gameList>

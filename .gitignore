@@ -1,0 +1,3 @@
+# Copyrighted LucasArts game data - never commit. Users supply their own.
+*.dta
+*.daw

@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "name": "swyodastories.zip",
+  "items": [
+    "Star Wars Yoda Stories.sh",
+    "swyodastories"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Star Wars: Yoda Stories",
+    "porter": [
+      "Kryptikone316"
+    ],
+    "desc": "A reimplementation of the 1997 LucasArts desktop toy. Every playthrough generates a new, always-solvable Star Wars adventure: explore a procedural world, solve item-chain puzzles, and fight your way to Yoda. Requires your own copy of the original game data file.",
+    "desc_md": null,
+    "inst": "Requires your own legal copy of Star Wars: Yoda Stories. Copy yodesk.dta from it into the swyodastories/Yoda/ folder before launching.",
+    "inst_md": null,
+    "genres": [
+      "adventure",
+      "rpg"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}
