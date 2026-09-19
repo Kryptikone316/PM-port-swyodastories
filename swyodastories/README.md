@@ -2,6 +2,10 @@
 
 Thanks to [sp00nznet](https://github.com/sp00nznet/YodaStoriesNG) for reimplementing the Desktop Adventures engine from scratch. It reads the original data file directly, so every playthrough is a genuinely new, always-solvable procedural adventure, same as the 1997 original.
 
+## Sound (optional)
+
+The game plays fine with no sound at all. If you want sound effects, copy the `SFX` folder from your own copy of the game (it sits right next to `YODESK.DTA`) to `swyodastories/Yoda/SFX`, keeping the original folder name and filenames as-is. Nothing else to configure - the game finds them automatically on the next launch.
+
 ## Controls
 
 | Key | Action |
