@@ -23,6 +23,8 @@ The game plays fine with no sound at all. If you want sound effects, copy the `S
 | Y | Show objective |
 | L1 / R1 | Toggle weapon |
 | L2 / R2 | Cycle inventory (selects which item A uses) |
+| L3 (left stick click) | Quick save |
+| R3 (right stick click) | Quick load |
 | Start | Restart |
 | Select | Quit |
 
